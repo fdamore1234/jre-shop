@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Joe Rogan Shop - Products Joe Recommends</title>
+    <meta name="description" content="Fan-curated collection of products Joe Rogan mentions and recommends on his podcast. Find the gear, supplements, and books Joe talks about.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>THE JOE ROGAN SHOP</h1>
+            <p class="disclaimer">Fan-directed website • No official affiliation with Joe Rogan</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- YouTube Videos Section -->
+        <section class="videos-section">
+            <h2>Latest Clips</h2>
+            <div id="videos-grid" class="videos-grid">
+                <!-- Videos will be loaded dynamically -->
+            </div>
+        </section>
+
+        <!-- Products Section -->
+        <section class="products-section">
+            <h2>Products Joe Recommends</h2>
+            <div class="filters">
+                <button class="filter-btn active" data-category="all">All Products</button>
+                <button class="filter-btn" data-category="supplements">Supplements</button>
+                <button class="filter-btn" data-category="gear">Gear</button>
+                <button class="filter-btn" data-category="books">Books</button>
+                <button class="filter-btn" data-category="food">Food & Drink</button>
+            </div>
+            <div id="products-grid" class="products-grid">
+                <!-- Products will be loaded dynamically -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 The Joe Rogan Shop - Fan Site</p>
+            <p>This is an unofficial fan site and is not affiliated with, endorsed by, or connected to Joe Rogan or his official podcast.</p>
+            <p>As an Amazon Associate, we earn from qualifying purchases.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

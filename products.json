@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Onnit Alpha Brain",
+      "category": "supplements",
+      "episode": "1169",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    },
+    {
+      "name": "Traeger Grill",
+      "category": "gear",
+      "episode": "1255",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    },
+    {
+      "name": "Four Sigmatic Mushroom Coffee",
+      "category": "food",
+      "episode": "1234",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    },
+    {
+      "name": "Breath by James Nestor",
+      "category": "books",
+      "episode": "1506",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    },
+    {
+      "name": "WHOOP Strap",
+      "category": "gear",
+      "episode": "1823",
+      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    },
+    {
+      "name": "Athletic Greens AG1",
+      "category": "supplements",
+      "episode": "1789",
+      "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=500&q=80",
+      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+    }
+  ]
+}
