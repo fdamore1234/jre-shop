@@ -1,46 +1,109 @@
 {
   "products": [
     {
-      "name": "Onnit Alpha Brain",
+      "name": "NMNH (NMN Supplement Alternative)",
       "category": "supplements",
-      "episode": "1169",
-      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_93e7c89afa8044f19c971f02bc47c941~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     },
     {
-      "name": "Traeger Grill",
-      "category": "gear",
-      "episode": "1255",
-      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "name": "Sports Research Triple Strength Omega 3 Fish Oil",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_c91b60fbaac54984bb15082718c841f7~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     },
     {
-      "name": "Four Sigmatic Mushroom Coffee",
-      "category": "food",
-      "episode": "1234",
-      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "name": "Liquid Vitamin IV Bag",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_15acaecce6a044feafa9693289915f29~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     },
     {
-      "name": "Breath by James Nestor",
-      "category": "books",
-      "episode": "1506",
-      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "name": "Ultra High Purity Resveratrol Capsules",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_3df46b7e73154d0584894e10fd0299d0~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     },
     {
-      "name": "WHOOP Strap",
-      "category": "gear",
-      "episode": "1823",
-      "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "name": "Glucosamine Chondroitin MSM",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_83c9e74635d2446abc582d8cd6933b07~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Methylene Blue",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_431c3f2c43184c29b4090cb69b4a4f6e~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Nature Made Vitamin D3",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_d9daa504a0ee4648a4f7795e82018d53~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Multivitamin for Men",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_7ded26460f6d4cf19718145fee276593~mv2.jpg",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Hydrogen Water Tablets",
+      "category": "supplements",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_ba9905acfc4447159314a2b7d8695cec~mv2.webp",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     },
     {
       "name": "Athletic Greens AG1",
       "category": "supplements",
-      "episode": "1789",
-      "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=500&q=80",
-      "affiliateLink": "https://amazon.com/your-affiliate-link-here"
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_e4adf325af5b4bfeaecad1703859c529~mv2.png",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Single Person Steam Sauna",
+      "category": "recovery",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_4f14e371123c4cca94af9c77fb8d9d21~mv2.webp",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "2 Person Infrared Dry Sauna",
+      "category": "recovery",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_b603eef73087465e86b7f684dada8b30~mv2.webp",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Defense Soap",
+      "category": "gear",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_b0700631421040c18104136a059f5a72~mv2.png",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Black Rifle Coffee",
+      "category": "food",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_923ceba3a3da48bf947fecc240259ea8~mv2.png",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
+    },
+    {
+      "name": "Traeger Grills Ironwood 650 Electric Wood Pellet Grill",
+      "category": "gear",
+      "episode": "TBD",
+      "image": "https://static.wixstatic.com/media/677027_b937e9525df846a8b86abe7ae8c83c79~mv2.webp",
+      "affiliateLink": "YOUR_AFFILIATE_LINK_HERE"
     }
   ]
 }
